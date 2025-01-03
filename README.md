@@ -18,4 +18,4 @@ brew install rexkyng/homebrew-tap/{formula}
 
 | Formula                                                 | Version | Description                                                                    |
 | ------------------------------------------------------- | ------- | ------------------------------------------------------------------------------ |
-| [`pay-respects` | `0.6.8` | Command suggestions, command-not-found and thefuck replacement written in Rust |
+| [`pay-respects`](https://codeberg.org/iff/pay-respects) | `0.6.8` | Command suggestions, command-not-found and thefuck replacement written in Rust |
